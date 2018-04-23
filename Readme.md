@@ -1,0 +1,8 @@
+# NavBarControl - How to obtain boundaries of elements in header area and manually paint it
+
+
+This example illustrates how to obtain boundaries of items in NavBarControl's header area and paint in this area if the NavigationPane style is used<br><img src="https://raw.githubusercontent.com/DevExpress-Examples/navbarcontrol-how-to-obtain-boundaries-of-elements-in-header-area-and-manually-paint-it-t497731/15.1.3+/media/58632536-1470-11e7-80bf-00155d62480c.png">
+
+<br/>
+
+
