@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/NavBarCustomPaintHeader/Form1.cs) (VB: [Form1.vb](./VB/NavBarCustomPaintHeader/Form1.vb))**
+* [Program.cs](./CS/NavBarCustomPaintHeader/Program.cs) (VB: [Program.vb](./VB/NavBarCustomPaintHeader/Program.vb))
+<!-- default file list end -->
 # NavBarControl - How to obtain boundaries of elements in header area and manually paint it
 
 
